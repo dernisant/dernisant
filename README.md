@@ -6,6 +6,6 @@
 - 📫 Pode entrar em contato comigo através desse Email: dernival2001@hotmail.com
 
 
-(https://github-readme-stats.vercel.app/api?username=dernisant&theme=radical)](https://github.com/dernisant/)
+[![dernisant](https://github-readme-stats.vercel.app/api?username=dernisant&theme=radical)](https://github.com/dernisant/)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=dernisant&hide=html&layout=compact&theme=radical)](https://github.com/dernisant/)
+[![dernisant](https://github-readme-stats.vercel.app/api/top-langs/?username=dernisant&hide=html&layout=compact&theme=radical)](https://github.com/dernisant/)
