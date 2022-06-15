@@ -1,14 +1,11 @@
 ### Olá! Eu me chamo Dernival.👋
 
 - 🔭 No momento estou estudando através da <strong>KENZIE ACADEMY</strong>.
-- 🌱 No momento estou aprendendo sobre <strong>JAVASCRIPT</strong>, mas ja aprendi o básico sobre <strong>CSS</strong> e <strong>HTML</strong>.
+- 🌱 No momento estou aprendendo sobre <strong>JAVASCRIPT</strong>, mas já aprendi o básico sobre <strong>CSS</strong> e <strong>HTML</strong>.
 - 👯 Estou sempre me esforçando para <strong>melhorar</strong> e <strong>aprender</strong> mais, a fim de conseguir ter um grande <strong>êxito</strong> nessa jornada da programação!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Pode entrar em contato comigo através desse Email: dernival2001@hotmail.com
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=dernisant&theme=radical)](https://github.com/dernisant/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dernisant&hide=html&layout=compact&theme=radical)](https://github.com/dernisant/)
+(https://github-readme-stats.vercel.app/api?username=dernisant&theme=radical)](https://github.com/dernisant/)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=dernisant&hide=html&layout=compact&theme=radical)](https://github.com/dernisant/)
